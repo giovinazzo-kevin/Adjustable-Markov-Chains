@@ -1,0 +1,184 @@
+Factorio is about automation, and in many ways similar to programming. When you're a programmer you get used to a particular mindset of writing tidy, modular and clear code - the building pillars of most mega bases - but you also learn how to offload your mental work in order to focus on what matters.
+Having a system of lights is such an example, because an intermittent red/yellow glow is much easier to notice than a half empty belt, especially when you're working on something else. Placing semaphores at every balancer guarantees that you know where exactly your production is lacking, so that you can take notice immediately and so that you don't have to backtrack when you realize you aren't producing enough <x>.
+To me, this system is useful because it means that I have to think less about the little things and because it provides a clear status of the whole bus at a glance.
+
+Because I gave it the positive meaning of "Full lane; no intake problems, input redirected", while red means "Empty lane; need to take action!"
+
+No, that's where balancers come in play. With a 4-belt wide bus you can split off four times, but then you have to use a 4 to 4 balancer to make sure that each lane gets the same. Since the throughput is constant, your lighter production will consume only what it needs, and if that belt becomes full (which gets more likely as you upgrade your production) then the rest of the items will get split equally between the other lanes at the next balancer. This ensures that excess production "cascades" towards the end of the bus, and if that end doesn't get enough resources then you simply aren't producing enough.
+
+Of course. Each light is connected to three decider combinators, which in turn are connected to each end of the balancer.
+The configuration of each combinator is as follows:
+
+Due to the precedence of the green signal (which I think is because it fires after the yellow signal, or perhaps because it's a stricter condition, although I wouldn't be so sure), no additional wiring is required.
+The lights are simply set to use colors.
+What this all means is that the lights indicate how many items a belt is carrying. If the light is green, that belt is full and all its potential throughput is split evenly among the remaining lanes. If the light is yellow, the belt is carrying items and if the light is red that lane is currently empty, which makes it easy to spot iron plate deficiencies early on, if the red light stays on for long periods.
+
+Yeah, ask your doctor to arrange a meeting with a psychiatrist right away. The worst thing about severe anxiety is believing that you're going crazy, or that you're dying of some random illness because of psychosomatic pain that has no physical cause. I'm really sorry to hear what you're going through, but know that you're not alone.
+
+Yes, I completely agree and I feel you. As I said in my other comment, what you're trying to explain is Major Depressive Disorder, the symptoms of which are anxiety and depression.
+As one's brain gets used to thinking in a certain way, the neural links between certain pathways become stronger, reinforcing that way of thinking (a phenomenon called neuroplasticity). That's the ouroboros you're speaking of. The only way to break free is psychotherapy, which should be performed by a professional and associated to antidepressant drugs.
+A little bit about myself; I finally sought help after having constant panic attacks for three days in a row. I was afraid of medication at first, I honestly feared it would change me. I knew it would change me for the better, but I was still afraid. That's what anxiety does to you, I guess. Now some time has passed, and I can tell you with certainty that medication is great and that I've never felt so well in years. You don't have to be a slave to your anxiety, you can beat it.
+It's like being trapped in an endless hole; people tell you to "just come out", but it seems impossible to you. That's because it is, if you don't get external help. And if you can't, open up to some friends. Try herbal remedies, or food that helps you produce and regulate serotonin. Don't give in to your feelings of helplessness.
+
+Long term anxiety is, in the majority of cases (as in, for people with no other mental health complications), a symptom of major depressive disorder. Mental health problems often go undiagnosed, and people think that being anxious is normal, but it's not. Sometimes it takes recurrent panic attacks for people to finally seek out medical help, but until then "they're totally fine".
+Source: Suffered from MDD for years and only recently started therapy, and it works really well despite me being afraid of it at first; I wish more people made the step.
+EDIT: And of course, MDD has a wide spectrum. You and your GF may experience it differently because you think differently and have different defense mechanisms, but both experiences fall in the same category.
+
+They allow you to identify and be identified as one or more categories. I think that it's an illusion of self-expression; the end result is standing out more, wearing stuff that "represents you" (which is not pure self-expression, but it's what we get in a capitalist society) better, and making it easier to socialize with the minorities you associate with.
+Not that there's anything inherently wrong with it, we all need to belong to some groups, but that's one of the only ways to alleviate the pain of feeling like a mindless drone in a very superficial way.
+
+Actually, you should go the extreme route and block them at the routing level.
+Apps like Adbl0ck (which I haven't tried, but I found by having the same idea) work by creating a VPN that intercepts some traffic and prevents it from reaching your devices, so it will work on all your machines that are connected to said VPN without the use of specific software. Not only would such a system work on mobile; it'd work on anything IoT, and even video game consoles like the 3DS or, hell, a kindle. And the best thing is that you only have to configure one machine.
+
+What I meant is that life as we know it is in the Goldilocks period of our Sun's life, because if it explodes then it will simply cease. By then we might have migrated onto other systems, but unless we do it then there won't be anymore life, again, as we know it.
+I'm sure that the universe is full of other life forms, but those might have appeared way earlier than ours did, and might even outlast it.
+
+I think that all creatures, at least those with a brain, can experience reality directly. Some, if not most, may not directly be capable of realizing that they exist, showing self-awareness, but their experience is probably going to be similar to ours.
+After all, we all have a common ancestor and all complex life is closely related. Mammals might be different from insects, but even insects have brains and a nervous system. And since we don't know what consciousness is, or if it is an emergent quality of intelligence in sentient life, I'm brought to think that at least anything with a brain will be able to experience reality, one way or the other.
+Would it really make sense to say that bees are philosophical zombies, or robots, when we follow the same biological principles?
+
+A lot of F2P games that are available on Steam do it, though. For example, Tribes:Ascend. I don't know if it changed much during the past few years, but when it came out you had to launch it from Steam and then from the Hi-Rez launcher.
+
+It takes some grinding but if you went from 2 to 1 you'll surely get to legend in a few days, tops. Recently joined the club and I've got to say, once you're there it all gets more relaxed. It's like playing casual except you can track your progress and get mad the next day when you wake up to see you've dropped several positions.
+
+If [the company] screws users over fair use, they're not worthy of any compassion. It's not that tough of a concept.
+Trademark protection means protection against rip offs, defamation and the like. They're entirely different, and should be handled differently.
+This instance in particular is especially scummy. It does not use Facebook's name unfairly and it does not bring users away from the site (actually, the opposite). There's no ethical reason Facebook should file a complaint, but they do it because it earns them money. And greed is the virtue of assholes.
+
+No, it's a matter of fair use. If you get pissed about fair use, you're an asshole.
+
+It's a medieval practice that originated in highly religious (Christian) places. As history progressed we moved past physically hurting ourselves, but we still do it psychologically.
+It doesn't help that guilt is also very easy to exploit whether consciously or subconsciously by people and corporations alike.
+
+Yeah, correlation doesn't always imply causation, except when we're talking about evolutionary processes that usually take millions of years or require specific conditions to be in place. The impact industrialization had on climate, and generally speaking, the environment, would enable many of these conditions simultaneously.
+Imho humans should always be considered guilty until proven otherwise, or we won't last much more.
+
+It's saying that iPhones and Samsung phones are the emblem of the modern capitalist society; instruments used to dissociate people from the real problems, the problems afflicting our brothers, while the rich elite keeps accumulating wealth in spite of this all.
+It's not the phones per sé, the point is that choosing between them is meaningless on a larger scale, while there are still places where people have to live day to day and can't even begin to contemplate the luxuries we are used to.
+In short, this image depicts the so-called egoistical "human nature" that modern society is based upon.
+
+I don't want to sound repetitive, but alcohol, like any other drug, is good in moderation. It alters your perspective, gives you confidence, lightens up the mood...
+Yeah, some people become aggressive when they drink too much. That's not alcohol's fault, that's because they should see a therapist. When I'm wasted I just tag along and say random shit and laugh, but I have a friend who starts punching walls and people alike. He has a shitty relationship with his father.
+Alcohol brings out some of the feelings and emotions that you usually keep locked away, but it doesn't turn you into a different person.
+
+Internet Service Providers give you a unique IP address when you connect to their service. They know who they hand which addresses to, so in case someone does something illegal the authorities can ask them who that address belonged to.
+Google gives you that information for this exact purpose; in case someone manages to enter your account, they can be traced back.
+Nonetheless, an IP address can be used to connect to the computer that owns it, which is usually a router (read about Local Area Networks to understand why), but you can't do anything unless you manage to bypass the firewall and even then you must know what you're doing in order to proceed.
+MAC addresses don't identify a computer; they identify a network interface, which means that your PC's ethernet card (or motherboard nowadays) has a MAC address, your router has a MAC address, and so on. Again, you can't do much with those because they're supposed to be shared (although at a lower network level).
+There's a technique known as MAC Address Spoofing which fakes your computer's MAC Address, but it's used defensively to make tracing harder.
+
+Yeah. If people started drinking sugar-free beverages, I'm sure that obesity in America would decrease substantially. I myself didn't realize how big an impact sugar has on metabolism, but then I went on a ketogenic diet (which is a bit extreme, but it enlightened me on the matter) and lost 25 kilos in about five months.
+Fast forward to more than six months later, so far I have not been dieting, I've been eating whatever the hell I want, and I've lost five more kilos. However, since then, I stopped buying Coca Cola and all the fancy sodie pop brands. Instead, I drink sugar free tea and water. I've also replaced potato chips (lots of carbs and fats. Fats by themselves aren't particularly harmful, but when your body takes all the energy from carbs it doesn't need to process the fats and stores them instead) with other stuff, and I generally eat less as well.
+Sugar makes you crave for more sugar, and I consider it a drug because it's addictive and it causes huge mood swings and sometimes illness when you cease the intake abruptly. Sponsoring soda is like sponsoring heroin, except its effects are much more subtle and accepted by the public. And yet the outcomes are obesity, diabetes, and sometimes even death. I also consider it a drug because, when eaten in moderation, it isn't harmful. But go tell the people that, and they'll laugh in your face.
+Honestly, I think that there's a lot of disinformation in the dietary field. I'm merely voicing my opinion, and I'm not a doctor; some people think I'm crazy for telling them to replace their sugars with fats. But if one thing's for sure, now I'm healthier and slimmer, and I didn't lose weight by buying all the shit that they recommend on TV.
+EDIT: That is not to say that now I wage a crusade against sugar. When I'm outside I'll still buy snacks and drink alcohol, and occasionally soda. Just don't make it a habit and don't exaggerate.
+
+I think that the right approach isn't stopping masturbation abruptly. We live in a world that preys on the desires of people, so reducing masturbation might help. But there's no good in dealing with extremes (unless you're a Sith or a hypocrite Jedi, I guess).
+Masturbation is our body's way of getting rid of excess stress and tension. Stopping might make you believe that you're full of energy and motivation, but that's only true if you masturbate so much that it starts to hinder you.
+I'd suggest trying out something new to do outside, far from your computer, like running. Running releases endorphins and causes a phenomenon known as the runner's high, which is fairly similar to the high you get from smoking marijuana (except it isn't intentional intoxication) and has a similar effect in dealing with stress. Additionally, running is a healthy habit and there really are few downsides to it.
+Not masturbating takes a lot of motivation, and that motivation can be channeled into more constructive and beneficial activities, but these are just my two cents.
+
+This list is so goddamn stupid. You can't group Breaking Bad with Rick and Morty; you can't group Game of Thrones with Dragonball Z. Voting makes no sense, obviously the more popular shows are going to be at the top since more people saw them. And there's no criterion on which to base your vote, too. What the hell.
+
+Valve did a good job with DotA 2. Players hidden by the fog of view aren't sent to the client, for instance. This would be more difficult in a fully 3D game, though, and I'm sure you're right on that one.
+As for noises, a radar is still worse than a wall-hack. It can tell you if an enemy is behind a wall, but not where their head is or which way they're looking. Either way it would be very interesting to see.
+
+I mean, it's programming. You can never be too sure.
+Your code only works with ASCII (assuming C) characters, while RegEx can be trivially modified to include Unicode codepoints as well (\p{L} matches any letter). Additionally, OP's post also had to match numbers and a few special characters. You can see how the code would incrementally become much more verbose.
+Generally speaking, if there's a neat standard way to do stuff you shouldn't roll your own solution. But since you were concerned about speed, I ran a couple of benchmarks:
+
+It would appear that approach "A" is much faster in C++, but I think it has more to do with its implementation of RegEx, caching, and its optimizations on integer comparisons (and probably my rustiness in it!)
+However, Regex turns out to be the better choice in Python, and it even beats C++'s speed (which shamefully ran out of time on the online compiler I was using).
+Now; approach A isn't flexible. In <current year> we should consider it a hack, and only use it if strictly necessary. It's hard to maintain and it might break unpredictably on some systems, while working fine on others. It needs to be modified if you have to target a different encoding, and it might not be future-proof.
+On the other hand, approach B is flexible and, sometimes, faster. Modifying the regular expression is trivial, and you don't have to worry about how characters are laid out in memory or if their order is going to change in the foreseeable future (which is probably not going to, but you never know).
+Finally, consider that the benchmarks probably don't fit the generic use case, and even in C++ the regex implementation wouldn't make much of a difference.
+
+Thank you for letting me know!
+That's rich, but not especially unexpected. At least if it actually becomes one more people will get to hear my voice, with the bonus of it being anonymous. Some will agree, some won't. Whatever.
+
+I completely agree with you, especially on moderation. Still, it's easy for some people to become victims (quite literally) of hard drugs; although, if all drugs were legal they could seek help before they overdosed, and that's a certainty and yet another reason why prohibitionism puts lives at risk instead of preventing death. On top of not being able to get help, you're also done for if they catch you. That's just wrong.
+They exploit the weak, the people who turn to drugs because they have nowhere else to turn to. Happy people don't need drugs. So yeah, instead of helping those people you stick a huge pole in their ass. Nice job. Proud to be a citizen (luckily, I'm not).
+
+It's worse than you make it out to be. The war on drugs has been a disinformation campaign; now most people just won't think scientifically even if you rub the evidence in their face. They've been told all drugs are bad, they believe it and they will argue with you despite not being informed. This is the real problem, because if people were fucking reasonable they'd do something to put the government in its place.
+Hell, think 1984. The fact that alcohol and tobacco are legal and people are cool with it is a clear example of doublethink. Back when I read the book I was naive and I thought that it was so far away from reality, despite being so well-written. But as time passes, I'm realizing that it's a perfect depiction of today's world.
+I say make all drugs legal or make them all illegal. Anything else is fucking hypocrisy.
+
+Do you want to know why marijuana is a gateway drug?
+Because what would you do if you found out that the government lied to you, and perhaps the other drugs aren't as bad as they made them to be?
+Prohibitionism is so fucked up, it makes me sick. When you sacrifice honesty for personal gain you're a shitty person and I have no sympathy for you.
+
+That's Reddit for you. The circlejerk and the off-topic gets upvoted, the actual discussion (and controversy) is downvoted because no one bothers to read the links they click, even if they subscribe to technical subs.
+I still have to hear one valid reason, aside from preventing spam, to have upvotes in the comment section in the first place. They're just so disruptive and counterproductive. They should be a limited resource; like, you get "upvote power" by making comments that get upvoted, and people have to "pay" an extra in order to downvote. Perhaps this system would tone down the circlejerk a bit, or perhaps it wouldn't. But the thing is that the system as it is plainly sucks for anything other than the defaults.
+EDIT: Holy shit, you've been a redditor for 10 years. I would love to hear your opinion on this one.
+
+Honestly this sub is becoming so irritating. People now can't express their distaste in the direction Ethan is moving? Kindly fuck off, everyone should be allowed to say whatever they think about the content they follow. That's how discussion works. If you don't like discussion, go to /r/h3h3circlejerk or something where everyone agrees and posts only the dankest memes for your pleasure.
+And I have to agree with the guy. I always watch the new videos, I always like them, but the vibe is dying, you know? How long has it been since we've had a proper reaction video, in the style of the old ones? There's no longer any kind of ass-blasting; now most videos are, for lack of a better word, "meh".
+This one is a prime example of what I mean (not to mention the click-baity title that implies the glorious return of a villain, when in fact it plainly isn't). Would Ethan even make another video about SoFlo if he had better content to chase? Hell, the guy is trying to be more honest and to please his audience. He's not doing anything wrong anymore; in bird culture, this reaction video is considered a dick move.
+
+It's underused in hearthstone as well. I think that it's a great mechanic but often hard to fit in a deck; it's more of a tech than a staple because of how situational it can be.
+But yeah, every deck should run at least a couple of silences. Like, if your deck has purple in it you just have to include two {{Shadowfen Priest}}s. But can the same be said about {{Cursed Spectre}} or {{Suppress}}? Eh...
+
+Thank you. I may have been a bit drastic, but you were able to understand my point.
+First of all, to me programming is much more related to art than doing taxes is. Doing taxes is a repetitive task, a list of procedures that you have to follow. Programming is creative work, and like it or not you have to be creative to solve a problem.
+I've worked with people who do not understand that concept; they think that copying and pasting stuff from StackOverflow without trying to understand it first is perfectly fine; they don't care about indentation and they give up when the compiler tells them precisely what they're doing wrong.
+That's because they don't really care, they have no reason to learn more than whatever gets the code to run. And that's why I get upset when I see posts like this: experimenting and doing side projects on your own makes you a better programmer? Who would've guessed?!
+@ /u/arekhemepob [-1]
+Just like in any artistic process (you might not like my parallels, but that's how I see it) it's practice that makes you better. I suppose that even an accountant must like math in order not to kill themselves on the job, and they have to be good at it. Sometimes you don't get to choose what you'll end up doing in life, but we're talking about jobs that require high levels of education. Surely you must have a choice if you're willing to study that much. That's why I don't get people who end up as programmers despite clearly not having the passion.
+
+You just can't make a simple low level language without a few gotchas. Add in backwards compatibility to the mix and I hope you see where this is going.
+Java, too, has been hit heavily by a strict requirement for backwards compatibility. The premise was good, but things had to go that way...
+
+I think that approaching a problem is like building a house of cards. You lay down the first few, easy enough, but things get harder and harder as you reach the top, because you have to pay attention to everything else or the thing will collapse. It's like a mental stack of assumptions and considerations, each layer a bit more abstract than the previous but nonetheless reliant on it. It requires a huge deal of concentration.
+
+In Italian sé basically translates to self, so per sé means by itself. But the English version doesn't have an accent, the same way that bravo is used regardless of gender (it should be brava for feminine nouns).
+Moreover, se without the accent means if. But most people don't care, much like most people on the Internet don't care about your/you're or its/it's.
+Source: My country is famous for pasta and pizza
+EDIT: Okay, actually English uses the Latin version. But this is still an explanation of why an accent isn't so unlikely.
+
+Yeah but you kinda have to be the change you want to see. I know it may sound stupid to argue about a bunch of shirts, but giving them directly to the homeless (I don't know about the USA, but we have some bins on the streets where you can toss your old clothes here) might have made a few people happy at no cost. Giving money to charities is wonderful, but it's like paying your self-consciousness to shut up for a while. It's delegating your ability to help people to someone else while making you think that you did it.
+I'm not really arguing here. It's for the sake of the argument; no hard feelings. I love h3h3, I liked the video, I just wished for it to be slightly more meaningful.
+
+I mean, a couple of things:
+Is it really worth it to destroy 80 shirts for an internet video? They could've donated them instead. Also, not just an internet video but a shitty fad challenge.
+The title and thumbnail are misleading since he didn't end up wearing 100 shirts, and he doesn't even acknowledge it at the end.
+If I didn't know h3h3 for their past stuff and came across this video, I would've thought they were just another awful channel. I love the concept of "doing it for the memes", but in the end this wasn't productive in any possible way.
+That said, papa bless. There's also a fourth person, a woman; probably Isaac's fiancee, but she wasn't directly addressed. Perhaps she didn't want to appear on screen.
+EDIT: I wish people realized that opinions aren't to be downvoted - and discussed instead, but whatever. If you want to feel superior smash that blue arrow like a mofo ????????
+
+Remember that Christianity isn't the only option! Religion is one of our oldest ways of encoding ethics and morals, and it is very important in a working society. Not following a religion is also fine, but it's easier to end up in situations where you don't really know how you should act, and that takes a toll on your mental well-being. In a sense, I think that religion shouldn't be thought of as a life-goal but as the direction you want to move in life - and you should feel free to change it without fear of repercussions.
+Try Buddhism. It teaches you how to be less materialistic, more modest and mindful (in contrast to helpless and afraid of doing the wrong thing), and more present. That is, it embodies "carpe diem" into something to live by. That said, Buddhism is a very introspective journey. You don't have a rulebook like you do with other religions, you just have five precepts that you willingly decide to undertake and that you're "free" to break if your judgement tells you that you should (as long as you spend time analyzing and considering the consequences). There's also the dogmatic concept of karma and reincarnation, but I mean, it's a nicer way of saying "Don't do unto others what you don't want others to do unto you", and I think that it's something that every kid should learn, regardless of religion or culture.
+TL;DR: Not all religions exploit their followers, and religion can be useful in life when you don't know where else to turn.
+
+Just play another game lol. It's easier for you to change than asking the devs to introduce a new game mode.
+ESL has a purpose and I think that it fulfills it. A narrow scope, in my opinion, is much better than a broad scope. Especially when there's so many games out there; it's not like there's reason to complain. If you want something less serious, play Hearthstone for a while and then switch back to ESL.
+
+Give a shot to Buddhism. It's like religion except it's about actually becoming decent human beings (not blaming other religions, but Buddhism is more about personal betterment than ceremonies and tradition). I've been an atheist for a long time, but I came to realize that spirituality in itself isn't bad, and it helps you in leading a better life. The problem isn't religion, it's the people who use gods as an excuse for their actions.
+
+I'd argue that it's good practice to never branch in loops unless necessary or unless the workaround would be too much work. Branching can slow down your code to a crawl[1], and the bigger the loop, the crawlier the crawl.
+But as always, there are many good cases in which branching in a loop is perfectly fine (e.g. message loops). Just don't put a bunch of ifs in code that iterates over millions of items.
+[1]: If your processor guesses the wrong branch, it has to clear the pipeline and start over, which completely negates the advantage of having a pipeline in the first place.
+EDIT: Generally speaking, very predictable branches (such as comparing against a constant) are also fine. I'm just posting this to provide some additional information.
+
+Bot dev here; RES is pretty much a standard on Reddit so I didn't give it a second thought, but you raise a valid point.
+In the immediate future (read as: next week or so) I'll be able to upgrade the bot. The upgrade will give it more information to work with, such as stats, keywords and card text, and this problem will be largely mitigated. As for the moment, we'll have to make do.
+
+Ah and also if you're on Chrome you could try out Imagus (there probably are alternatives for FireFox but I don't know about them): just hover any link pointing to a picture and it'll be displayed in a dynamic overlay.
+EDIT: Example.
+
+Basically,
+Alpha: We're still heavily working on it, the game is unfinished in one or more regards. Expect your account to be wiped.
+Beta: The game is mostly finished but we need lots of feedback and testing. Your account may be wiped.
+Release: The game is ready for a public announcement, and our infrastructures should be able to handle the surge of all the new players. The game feels polished and there are no outstanding bugs. Your account will not be wiped unless we fuck up majorly.
+
+Morals change with time, but prison is prison. Fucking your siblings used to be perfectly normal up until a few centuries ago. There are scientific reasons to believe that inbreeding is bad for a population's health, but if the partners are both consenting I believe that it's borderline unconstitutional to send them to jail. And if you're worried about bigger problems than respecting basic human rights, I'd be glad to hear about them.
+People like me will totally be remembered in the same league as racists and homophobes, uh huh.
+I see your point, but I believe that everyone should be entitled to their own sexual freedom. I believe that consensual relationships between adult people, no matter their gender, color, or family tree, should be fought for. Fighting discrimination by discriminating is extremely hypocritical, after all.
+
+I understand what you say, but I think that it's a good mechanic when used sparingly. Cards like that are just as dangerous as bigger drops, and they're one more reason you should run a few silences in your deck. But I can see how it's annoying since it's a combination of all the shredders from HS.
+
+Calculators are tools, and tools are worthless unless in the hands of someone who can wield them. Even if you're a programmer, which means that you're working on a calculator by definition, you're still going to need to know a shit load of math to do anything that's not trivial.
+Anyway, math is very important in life. It's not even about its practical uses, but about the way it shapes the brain into thinking more abstractly and critically. And this is from someone who used to hate numbers, but realized that they aren't as bad as they seem and is now trying to repent.
+
+I see, I figured it'd be like extension methods but I'd personally still avoid it in C#. It seems to make more sense in Ruby though.
+That's an interesting bit about Javascript, and new to me. I always thought that it worked like Ruby, by binding prototype modifications to a specific scope. But just like in C# I usually avoided it anyway, unless it was something like padding or really generic functions that should have been built-in from the get-go.
+Thank you for the time.
